@@ -1,0 +1,15 @@
+body {
+    background-color: darkcyan;
+}
+
+.Banjir {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    padding-top: 0;
+    margin-top: 20px;
+    border: solid black;
+    position: relative;
+}
